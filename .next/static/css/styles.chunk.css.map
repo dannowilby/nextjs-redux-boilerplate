@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/styles.chunk.css","sources":["webpack:///./pages/styles.scss"],"sourcesContent":[".title {\n  color: #333;\n  text-shadow: 4px 4px 8px #aaa;\n  font-size: 2rem; }\n"],"mappings":"AAAA;AACA;AACA;AACA;;","sourceRoot":""}
